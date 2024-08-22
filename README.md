@@ -77,3 +77,20 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![image](https://github.com/user-attachments/assets/4a29a9ba-ed8d-4585-9894-73d0f018bb94)
+![image](https://github.com/user-attachments/assets/d72fa9a3-8995-4379-997f-7c1ccfa40031)
+![image](https://github.com/user-attachments/assets/98993efe-289c-48fb-88bf-d2d2f0e4b1c9)
+![image](https://github.com/user-attachments/assets/0fcc1d82-8231-4803-9514-768f096f8e26)
+![image](https://github.com/user-attachments/assets/4dd283eb-0cd7-40a4-a081-c5cdf03eb34d)
+![image](https://github.com/user-attachments/assets/df9a17c9-96c6-4750-9931-80e4aa6d4968)
+![image](https://github.com/user-attachments/assets/48858e55-bc88-4f4f-8d73-db35ffa239a5)
+![image](https://github.com/user-attachments/assets/935b10fe-06e7-4cb2-a188-1ab5261d61e5)
+![image](https://github.com/user-attachments/assets/a04143ee-6fde-41af-b60c-8e83a8ac10ec)
+
+
+
+
+
+
+
+
